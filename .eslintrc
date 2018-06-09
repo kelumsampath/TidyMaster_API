@@ -1,0 +1,11 @@
+{
+    "env": {
+      "es6": true,
+      "node": true,
+      "mocha": false
+    },
+    "extends": "eslint-config-standard",
+    "rules": {
+          "semi": ["error", "always"]
+      }
+  }
